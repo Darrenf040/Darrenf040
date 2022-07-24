@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Darren
 - 👀 I’m interested in programming, sports, health, and exercise
 - 🌱 I’m currently learning c++ and javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on learning with another decent programmer
 - 📫 How to reach me @darrenfr83@gmail.com
 
 <!---
