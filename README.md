@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darren
 - 👀 I’m a computer science 2nd year intrested in tech, sports, video games, and self-improvement
-- 🌱 currently learning Java and Python
+- 🌱 currently learning Java Python, html, css and js.
 - 📫 How to reach me @darrenfr83@gmail.com
 
 <!---
