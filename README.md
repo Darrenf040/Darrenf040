@@ -19,8 +19,8 @@
 ### Full Stack JavaScript
 | Topic                     | Status                |
 |---------------------------|-----------------------|
-| Intermediate HTML & CSS   | :hourglass_flowing_sand: |
-
+| Intermediate HTML & CSS   | :heavy_check_mark: |
+| Javascript   | :hourglass_flowing_sand: |
 
 
 <!---
